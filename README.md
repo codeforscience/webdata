@@ -8,7 +8,7 @@ Discussion of numeric computing/data science on the web (JavaScript)
 - [Memory efficiency: Typed Objects/Value Types](https://github.com/codeforscience/webdata/issues/3)
 - [Concurrent data processing](https://github.com/codeforscience/webdata/issues/4)
 - [File and network I/O](https://github.com/codeforscience/webdata/issues/5)
-- WebAssembly/Node native addons (for porting/running C++ to JS)
+- [Native code (WebAssembly/Node native addons (for porting/running C++ to JS))](https://github.com/codeforscience/webdata/issues/6)
 - WebCL (GPU compute)
 
 Have another one? Open an issue to discuss!
